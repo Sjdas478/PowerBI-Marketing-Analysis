@@ -59,15 +59,14 @@ By structuring and visualizing the marketing data this way, the dashboard helps:
   - Net Sales & RPC (Revenue per Click)
 - **Data Cleaning & Modeling**:
   - Removed duplicates, standardized columns
-  - Linked **Calendar Table**, **Campaign Data**, and **Campaign Dictionary**
+  - Create **Calendar Table**
 
 ---
 
 ## 📂 Data Sources
-1. **Calendar Table** – Enables time-series and MoM analysis.
-2. **Marketing Campaign Data** – Daily campaign metrics:
+1. **Marketing Campaign Data** – Daily campaign metrics:
    - Spend, Impressions, Clicks, CTR, Conversions, Sales, Engagement
-3. **Marketing Campaign Dictionary** – Field definitions for all metrics.
+2. **Marketing Campaign Dictionary** – Field definitions for all metrics.
 
 ---
 
